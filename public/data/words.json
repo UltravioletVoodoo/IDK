@@ -26,10 +26,11 @@
         "Innocuously",
         "Inteligently",
         "Intuitively",
-        "Intricately"
+        "Intricately",
+        "Inaudibly",
+        "Incessantly"
     ],
     "verbs": [
-        "Doing",
         "Dictating",
         "Distributing",
         "Dancing",
@@ -54,7 +55,12 @@
         "Displaying",
         "Dignifying",
         "Devising",
-        "Depreciating"
+        "Depreciating",
+        "Decentralizing",
+        "Decimating",
+        "Destabilizing",
+        "Devolving",
+        "Downloading"
     ],
     "nouns": [
         "Knowledge",
@@ -71,6 +77,14 @@
         "Kilograms",
         "Kindling",
         "Kryptonite",
-        "Kleptomaniacs"
+        "Kleptomaniacs",
+        "Kobolds",
+        "Kilobytes",
+        "Kerosine",
+        "Kings",
+        "Kidneys",
+        "Keywords",
+        "Keys",
+        "Keepsakes"
     ]
 }
